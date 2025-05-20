@@ -6,7 +6,7 @@ Next.js/React frontend for E‑Commerce: product catalog, shopping cart, checkou
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/web-dev-interns/ecommerce-backend.git
+git https://github.com/TaotechSolutions/ecommerce-frontend.git
 cd ecommerce-backend
 ```
 ### 2. Install dependencies
